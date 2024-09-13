@@ -15,4 +15,4 @@ Frontend:-
 3. The page is designed with tailwind css for styling.
 
 
-To use application live folow this link:-
+To use application live folow this link:-https://task-manager-rho-three.vercel.app/
